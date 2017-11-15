@@ -1,0 +1,4 @@
+C:\Users\juli\Documents\Event\FinalProject\Module1\ClassLibraryClient\ClassLibraryClient\bin\Debug\ClassLibraryClient.dll
+C:\Users\juli\Documents\Event\FinalProject\Module1\ClassLibraryClient\ClassLibraryClient\bin\Debug\ClassLibraryClient.pdb
+C:\Users\juli\Documents\Event\FinalProject\Module1\ClassLibraryClient\ClassLibraryClient\obj\Debug\ClassLibraryClient.dll
+C:\Users\juli\Documents\Event\FinalProject\Module1\ClassLibraryClient\ClassLibraryClient\obj\Debug\ClassLibraryClient.pdb

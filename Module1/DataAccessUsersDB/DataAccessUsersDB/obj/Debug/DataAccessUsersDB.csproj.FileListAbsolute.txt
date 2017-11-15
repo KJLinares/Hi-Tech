@@ -1,0 +1,7 @@
+C:\Users\juli\Documents\Event\FinalProject\Module1\DataAccessUsersDB\DataAccessUsersDB\bin\Debug\DataAccessUsersDB.dll
+C:\Users\juli\Documents\Event\FinalProject\Module1\DataAccessUsersDB\DataAccessUsersDB\bin\Debug\DataAccessUsersDB.pdb
+C:\Users\juli\Documents\Event\FinalProject\Module1\DataAccessUsersDB\DataAccessUsersDB\bin\Debug\UsersBussinessSide.dll
+C:\Users\juli\Documents\Event\FinalProject\Module1\DataAccessUsersDB\DataAccessUsersDB\bin\Debug\UsersBussinessSide.pdb
+C:\Users\juli\Documents\Event\FinalProject\Module1\DataAccessUsersDB\DataAccessUsersDB\obj\Debug\DataAccessUsersDB.dll
+C:\Users\juli\Documents\Event\FinalProject\Module1\DataAccessUsersDB\DataAccessUsersDB\obj\Debug\DataAccessUsersDB.pdb
+C:\Users\juli\Documents\Event\FinalProject\Module1\DataAccessUsersDB\DataAccessUsersDB\obj\Debug\DataAccessUsersDB.csprojResolveAssemblyReference.cache
